@@ -2,7 +2,16 @@
 <h3 align="center">An aspiring Data Scientist with a focus on Machine Learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muktapatil" alt="muktapatil" /></a> </p>
+- 🌱 I’m currently learning **Large Language Model Development**
 
+
+- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Analysis, Data Visualization, Big Data Technologies, Data Engineering, Time Series Analysis, Recommender Systems, Computer Vision, Data Science Tools and Libraries, Cloud Computing for Data Science, Data Science Project Management, Ethics in Data Science, Feature Engineering, Data Cleaning and Preprocessing.**
+
+- 📫 How to reach me **mukta.vpatil02@gmail.com**
+
+<h3 align="left">Connect with me: [https://www.linkedin.com/in/mukta-patil99/](https://www.linkedin.com/in/mukta-patil99/)</h3>
+<p align="left">
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
