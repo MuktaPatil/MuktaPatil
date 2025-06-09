@@ -13,6 +13,7 @@ Hi there! I'm Mukta Patil — a passionate data scientist who loves building rea
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![ML Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=The%20first%20rule%20of%20Machine%20Learning%20Club%20is%3A%20you%20do%20not%20talk%20about%20accuracy%20without%20precision%20and%20recall.)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
