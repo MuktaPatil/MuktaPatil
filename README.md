@@ -1,4 +1,4 @@
-# About Me 👋
+# About Me 
 
 Hey, I am Mukta. I'm a Data Scientist with 4+ years of experience, finishing my **Master's in Applied Data Science at Syracuse University** (GPA 3.9). I care about building ML systems that actually work at scale, not just in notebooks.
 
@@ -51,7 +51,7 @@ I'm drawn to problems where the data is messy, challenge is real and the impact 
 
 ## 📬 Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-lightgrey?style=flat)](#)
+
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/YOUR_TABLEAU_HANDLE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukta-patil99/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mukta.vpatil02@gmail.com)
